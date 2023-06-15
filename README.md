@@ -1,15 +1,12 @@
-# Direcionador de Links
+# SLS Links
 
-Direcionador de Links que tem a função de organizar e direcionar links.
+Direcionador de Links para meu projeto chamado SLS Project Builder, uma empresa de projetos.
 
 ![preview](./.github/light-mode.jpg)
 ![preview](./.github/dark-mode.jpg)
 
-## ![preview](./.github/discover.png) Discover
 
-Projeto construído a partir das aulas do Discover da Rocketseat.
-
-[🔗 Clique aqui para acessar](https://samuells77.github.io/direcionador-de-links/)
+[🔗 Clique aqui para acessar](https://samuells77.github.io/sls-links/)
 
 ## 🧰 Tecnologias
 
